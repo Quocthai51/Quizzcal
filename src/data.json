@@ -1,0 +1,65 @@
+{
+      "response_code": 0,
+      "results": [
+        {
+          "category": "Science & Nature",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+          "correct_answer": "Sputnik 1",
+          "incorrect_answers": [
+            "Soyuz 7K-OK",
+            "Zenit-2",
+            "Voskhod 3KV"
+          ]
+        },
+        {
+          "category": "Entertainment: Television",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which company has exclusive rights to air episodes of the &quot;The Grand Tour&quot;?",
+          "correct_answer": "Amazon",
+          "incorrect_answers": [
+            "Netflix",
+            "BBC",
+            "CCTV"
+          ]
+        },
+        {
+          "category": "Sports",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+          "correct_answer": "84.39m",
+          "incorrect_answers": [
+            "100m",
+            "100yd",
+            "109.36yd"
+          ]
+        },
+        {
+          "category": "Sports",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which country will host the 2022 FIFA World Cup?",
+          "correct_answer": "Qatar",
+          "incorrect_answers": [
+            "USA",
+            "Japan",
+            "Switzerland"
+          ]
+        },
+        {
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which of the following music bands is not from Finland?",
+          "correct_answer": "Sabaton",
+          "incorrect_answers": [
+            "Apocalyptica",
+            "Waltari",
+            "Lordi"
+          ]
+        }
+      ]
+    }
